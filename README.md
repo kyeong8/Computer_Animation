@@ -29,5 +29,5 @@
 <br>
 
 너무 많아 진행중에 있습니다...  
-현재 그래픽스의 P05_3D_Programming까지 정리완료
+현재 그래픽스의 P05_3D_Programming까지 정리완료  
 T03_Mass-Spring_Models의 코드가 수정 전/후로 2개 존재하고, Mid_Term은 아직 수정되지 않았습니다.
