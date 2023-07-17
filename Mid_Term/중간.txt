@@ -1,0 +1,5 @@
+1. draw a plane with 256 x 256 tessellation
+2. phong shading with a single light
+3. generate texture coordinates for the plane
+4. apply the demon head texture to the plane
+5. apply the wave deformer to the texture-mapped plane

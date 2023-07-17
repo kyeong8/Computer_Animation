@@ -1,0 +1,10 @@
+1. Draw a kinematic model with 4 joints and 2 limbs as in the figure
+2. control each joint with the numeric keys 1, 2, 3, 4 and the left and right arrows
+3. specify the position of one end effector
+4. specify the position of the other end effector
+4. repeat 3 and 4
+1. 그림과 같이 4개의 관절과 2개의 팔다리가 있는 운동학적 모델을 그립니다.
+2. 숫자 키 1, 2, 3, 4와 왼쪽 및 오른쪽 화살표로 각 관절을 제어합니다.
+3. 한쪽 엔드 이펙터의 위치 지정
+4. 다른 엔드 이펙터의 위치 지정
+4. 3과 4 반복
